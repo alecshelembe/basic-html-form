@@ -4,30 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>form with PHP</title>
-    <style>
-        label {
-            margin: 20px;
-        }
-
-        input {
-            margin: 20px;
-        }
-        
-        h1{
-            text-align: center;
-        }
-
-        .div_form_border{
-            border:solid;
-            border-width: 2px;
-            border-radius: 10px;
-            margin-top: 20vh;
-        }
-
-        form{
-            text-align: center;
-        }+`
-    </style>
+    <link rel="stylesheet" href="style.css" />
 </head>
 <body>
     <div class="div_form_border">
